@@ -106,3 +106,5 @@
 2025-02-07 17:34:00 | INFO | repo=nnn | action=commit
 2025-10-19 15:49:00 | WARN | repo=nnn | action=pull
 2025-02-05 14:19:00 | WARN | repo=nnn | action=commit
+2025-05-20 13:17:00 | WARN | repo=nnn | action=pull
+2025-10-15 11:51:00 | DEBUG | repo=nnn | action=commit
